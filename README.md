@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muhmmdfrd
-- 👀 I’m interested in C# and React
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C# and ReactTS
+- 🌱 I’m currently learning React Native and Flutter
 - 📫 How to reach me ...
 
 <!---
