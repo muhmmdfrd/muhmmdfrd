@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muhmmdfrd
 - 👀 I’m interested in C# and ReactTS
 - 🌱 I’m currently learning React Native and Flutter
-- 📫 How to reach me ...
 
 <!---
 muhmmdfrd/muhmmdfrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
